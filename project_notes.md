@@ -9,3 +9,7 @@ What research question will our team investigate?
 ## Team
 - Student name: analysis and visualisation
 - Student name: data documentation
+
+## Methods
+We will use R to analyse our data.
+
