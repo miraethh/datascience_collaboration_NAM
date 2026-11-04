@@ -11,3 +11,5 @@ What research question will our team investigate?
 - Student name: data documentation
 
 ## Methods
+We will use R to analyse our data.
+
